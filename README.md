@@ -1,0 +1,2 @@
+# ServeHull
+A Discord bot
